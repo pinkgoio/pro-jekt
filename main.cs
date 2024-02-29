@@ -14,7 +14,7 @@
 					default:
 						return GetObjCName (t);
 					}
-				default:
+				default://yes
 					return GetObjCName (t);
 				}
           public bool IsSelectorTaken (ProcessedMemberBase member)
